@@ -1,7 +1,7 @@
 var config = {
      style: 'mapbox://styles/enuni/cmhdr177t004p01sgbs7nhe7s',
     // leave commented to use Mapbox Standard Style
-    accessToken: 'pk.eyJ1IjoiZW51bmkiLCJhIjoiY21oYXdvdzkwMWxmaDJpczVqZjd6YWl2eiJ9.yKQtgbX2e5rX9Gt5AehTYw',
+    accessToken: 'pk.eyJ1IjoiZW51bmkiLCJhIjoiY21oZHQxcnZwMDZrdjJrczYzMTcwa2N0cCJ9.O-Y1LhYI0LOj3vQdBU8kaQ',
     showMarkers: false,
     markerColor: '#3FB1CE',
     //projection: 'equirectangular',
