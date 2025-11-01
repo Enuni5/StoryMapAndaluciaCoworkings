@@ -18,7 +18,7 @@ var config = {
     title: 'Andalucía, tu lugar para trabajar y para vivir',
     subtitle: 'Alex, un nómada digital en busca de inspiración, decide dejar atrás la rutina y viajar al sur de Europa. Su destino: Andalucía, una región donde el trabajo remoto se mezcla con la historia, la luz y la vida mediterránea. Acompáñalo en su recorrido por algunas de las ciudades más vibrantes para teletrabajar.',
     byline: 'Por Emilio Núñez',
-    footer: 'Source: Map Data from <a href="https://www.openstreetmap.org/" target="_blank"> OpenStreetMap</a> & images from Wikipedia. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
+    footer: 'Source: Map Data from <a href="https://www.openstreetmap.org/" target="_blank"> OpenStreetMap</a> & images from Wikipedia and chatGPT. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
             id: 'slug-style-id',
