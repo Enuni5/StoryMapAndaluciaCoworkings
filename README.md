@@ -1,3 +1,12 @@
+
+StoryMapAndaluciaCoworkings
+
+Un mapa interactivo para descubrir algunos de los coworkings en Andalucía y poder decidir dónde vivir tu próxima experiencia “Digital Nomad”
+
+
+Creado mediante la plantilla de Mapbox StoryMap:
+
+
 - [Interactive Storytelling](#interactive-storytelling)
   - [Live Demo](#live-demo)
   - [Prerequisites](#prerequisites)
