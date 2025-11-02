@@ -21,7 +21,7 @@ var config = {
     footer: 'Source: Map Data from <a href="https://www.openstreetmap.org/" target="_blank"> OpenStreetMap</a> & images from Wikipedia. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
-            id: 'slug-style-id',
+            id: 'first-sevilla',
             alignment: 'left',
             hidden: false,
             title: 'Sevilla - historia y conectividad',
@@ -51,7 +51,7 @@ var config = {
             ]
         },
         {
-            id: 'second-identifier',
+            id: 'second-cordoba',
             alignment: 'right',
             hidden: false,
             title: 'Córdoba - Silencio productivo y alma creativa',
@@ -78,7 +78,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'third-identifier',
+            id: 'third-granada',
             alignment: 'left',
             hidden: false,
             title: 'Granada - Energía joven y vistas a Sierra Nevada',
@@ -97,7 +97,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'fourth-chapter',
+            id: 'fourth-almeria',
             alignment: 'right',
             hidden: false,
             title: 'Almería - Sol, mar y concentración',
@@ -116,7 +116,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'fifth-chapter',
+            id: 'fifth-malaga',
             alignment: 'right',
             hidden: false,
             title: 'Málaga - Comunidad internacional y oportunidades',
@@ -135,12 +135,12 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'sixth-chapter',
+            id: 'sixth-andalucia',
             alignment: 'fully',
             hidden: false,
             title: 'Andalucía, un lugar para conectar y crear',
             image: './assets/andalucia_tech_hub.png',
-            description: 'Tras recorrer Sevilla, Córdoba, Granada, Almería y Málaga, Alex comprende que Andalucía no es solo un destino, sino una forma de vivir. Cada provincia ofrece una experiencia distinta, pero todas comparten lo esencial: sol, talento, cultura y conexión. Y tú, ¿dónde montarías tu oficina con vistas?',
+            description: 'Tras recorrer Sevilla, Córdoba, Granada, Almería y Málaga, Alex comprende que Andalucía no es solo un destino, sino una forma de vivir. Cada provincia ofrece una experiencia distinta, pero todas comparten lo esencial: sol, talento, cultura y conexión. Y tú, ¿dónde montarías tu oficina con vistas? <a href="https://api.mapbox.com/styles/v1/enuni/cmhdr177t004p01sgbs7nhe7s.html?title=view&access_token=pk.eyJ1IjoiZW51bmkiLCJhIjoiY21oZHQxcnZwMDZrdjJrczYzMTcwa2N0cCJ9.O-Y1LhYI0LOj3vQdBU8kaQ&zoomwheel=true&fresh=true#15.42/37.175104/-3.604984/83.2/57" target="_blank"> Abre el mapa interactivo </a>',
             location: {
                 center: [-4.218999, 37.278641],
                 zoom: 7.47,
@@ -155,3 +155,4 @@ var config = {
         }
     ]
 };
+
